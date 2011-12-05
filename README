@@ -1,0 +1,4 @@
+Dropbox daemon and library.
+Heavily WIP, don't expect much progress here.
+
+Uses OAuth.sh: http://code.google.com/p/yjl/source/browse/Bash/OAuth/OAuth.sh
